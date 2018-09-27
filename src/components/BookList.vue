@@ -1,8 +1,6 @@
 <template>
     <div>
-        <h1>
-            {{ title }}
-        </h1>
+        <h1>{{ title }}</h1>
     </div>
 </template>
 
@@ -20,6 +18,6 @@ export default {
 <style>
     h1, h2  {
         font-style: normal;
-        
+
     }
 </style>
